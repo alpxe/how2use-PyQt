@@ -11,7 +11,7 @@
 3.配置PyCharm 工具
   1) 打开Designer.app 的配置
         Tools > External Tools > 
-            Name: Qt Desiger
+            Name: Qt Designer
             Program: /opt/anaconda3/bin/Designer.app
             Working directory: (默认生成) /opt/anaconda3/bin
 
